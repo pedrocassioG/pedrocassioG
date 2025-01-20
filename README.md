@@ -1,5 +1,9 @@
-## Hi there 👋
+## Olá, me chamo Pedro 👋
 
+- Atualmente trabalho como eletricista de manutenção
+- Estudo Engenharia de Software na faculdade Estácio
+- Participo do G8 do projeto Hello ONE em conjunto com a Alura Latam
+- Pretendo me formar como dev e migrar minha carreira para esse ramo de tecnologia
 <!--
 **pedrocassioG/pedrocassioG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
