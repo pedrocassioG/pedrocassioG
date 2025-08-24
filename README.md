@@ -27,7 +27,7 @@ Aqui estão alguns dos projetos que desenvolvi para praticar e demonstrar meus c
 ## 🛠️ Tecnologias e Ferramentas:
 
 * **Linguagens:** Python, JavaScript, HTML, CSS
-* **Bancos de Dados:** SQL (SQLite), NoSQL (conceitos)
+* **Bancos de Dados:** SQL (SQLite), NoSQL (CSV, JSON, ETC...)
 * **Formatos de Dados:** JSON, CSV, Excel (manipulação com `Pandas`)
 * **Bibliotecas/Frameworks (Python):** `Pandas`, `SQLAlchemy` (básico)
 * **Versionamento de Código:** Git, GitHub
