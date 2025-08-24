@@ -11,7 +11,7 @@ Como você pode ter visto na minha descrição, atualmente trabalho como eletric
 - Regressão Linear e outros modelos de machine learning supervisionado utilizando `scikit-learn`.
 - Python para análise de dados e desenvolvimento back-end.
 - Desenvolvimento Web com HTML, CSS e JavaScript.
-- Bancos de dados SQL (especialmente SQLite) e NoSQL (conceitos).
+- Bancos de dados SQL (especialmente SQLite) e NoSQL (CSV, JSON, ETC...).
 - Manipulação e análise de dados em formatos diversos (JSON, CSV, Excel) com bibliotecas como `pandas`.
 - Boas práticas de versionamento de código com Git e GitHub.
 
